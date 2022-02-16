@@ -1,0 +1,25 @@
+{
+    "keyboard_name": "alexmpad",
+    "url": "https://github.com/Rec0iL/qmk_firmware",
+    "maintainer": "Rec0iL",
+    "width": 5,
+    "height": 3,
+    "layouts": {
+        "LAYOUT": {
+            "layout": [
+                {"label":"K01 (F4,B1)", "x":1, "y":0},
+                {"label":"K02 (F4,B3)", "x":2, "y":0},
+                {"label":"K03 (F4,B2)", "x":3, "y":0},
+                {"label":"K04 (F4,B6)", "x":4, "y":0},
+                {"label":"K11 (F5,B1)", "x":0.5, "y":1},
+                {"label":"K12 (F5,B3)", "x":1.5, "y":1},
+                {"label":"K13 (F5,B2)", "x":2.5, "y":1},
+                {"label":"K14 (F5,B6)", "x":3.5, "y":1},
+                {"label":"K21 (F6,B1)", "x":0, "y":2},
+                {"label":"K22 (F6,B3)", "x":1, "y":2},
+                {"label":"K23 (F6,B2)", "x":2, "y":2},
+                {"label":"K24 (F6,B6)", "x":3, "y":2}
+            ]
+        }
+    }
+}
